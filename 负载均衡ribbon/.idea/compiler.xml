@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client (1)" />
+        <module name="eureka-ribbon-client" />
+        <module name="eureka-server" />
+      </profile>
+      <profile name="Annotation profile for chapter5-2" enabled="true">
+        <sourceOutputDir name="../eureka-client2/target/generated-sources/annotations" />
+        <sourceTestOutputDir name="../eureka-client2/target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="eureka-client" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="chapter5-2" target="1.8" />
+      <module name="eureka-client" target="1.8" />
+      <module name="eureka-client (1)" target="1.8" />
+      <module name="eureka-ribbon-client" target="1.8" />
+      <module name="eureka-server" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
