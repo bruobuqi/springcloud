@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-client2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-feign-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-monitor-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-ribbon-client" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../zuul智能路由网关/eureka-zuul-client" charset="UTF-8" />
+  </component>
+</project>
