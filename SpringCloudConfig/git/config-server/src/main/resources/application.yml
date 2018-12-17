@@ -22,9 +22,9 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/bruobuqi/springcloud/tree/master/Spring%20Cloud%20Config
-          searchPaths: respo
-          username:
+          uri: https://github.com/bruobuqi/springcloud/SpringCloudConfig
+          searchPaths: peizhi
+          username: bruobuqi
           password:
       label: master
   application:
