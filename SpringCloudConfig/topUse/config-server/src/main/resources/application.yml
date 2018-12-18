@@ -1,3 +1,5 @@
+# native
+
 #spring:
 #  cloud:
 #    config:
@@ -8,13 +10,9 @@
 #     active: native
 #  application:
 #    name: config-server
-#
-#server:
-#  port: 8769
-
 
 server:
-  port: 8769
+  port: 8768
 
 # remote git
 spring:
@@ -24,8 +22,13 @@ spring:
         git:
           uri: https://github.com/bruobuqi/springcloud/
           searchPaths: config
-          username: bruobuqi
+          username:
           password:
       label: master
   application:
     name: config-server
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/

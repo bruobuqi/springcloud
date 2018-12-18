@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/config-client/config-client.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/config-client/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/config-client2/config-client2.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/config-client2/config-client2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/config-server/config-server.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/config-server2/config-server2.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/config-server2/config-server2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../SpringCloudBus/topUse.iml" filepath="$PROJECT_DIR$/../SpringCloudBus/topUse.iml" />
+    </modules>
+  </component>
+</project>
